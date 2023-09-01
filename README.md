@@ -16,12 +16,12 @@ In this simulation, thousands of Brownian motion paths for the underlying stock 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/dorive/delta_hedging_jupyter.git
+   git clone https://github.com/dorive/ options_finance_analysis.git
 
 2. Navigate to the project directory:
 
    ```bash
-   cd delta_hedging_jupyter
+   cd  options_finance_analysis
 
 3. Open the Jupyter Notebook:
 
