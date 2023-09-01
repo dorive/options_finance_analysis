@@ -45,7 +45,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact the project owner:
+If you have any questions or suggestions, feel free to contact me:
 
     Name: David Orive-Miguel
     LinkedIn: www.linkedin.com/in/david-orive-miguel-42262890
